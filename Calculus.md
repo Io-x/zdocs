@@ -4,7 +4,7 @@
 
 2.  Find the domain and range of $f(x)=\sqrt{4-2x} +5$
 
-3.  Given $f(x) = x^2+1  $   and  $  g(x) =\frac1x$ . Evaluate $(g\circ f)(4)$
+3.  Given $f(x) = x^2+1$ and $g(x)=\frac 1x$. Evaluate $(g\circ f)(4)$
 
 4.  Evaluate the following limits
 
@@ -14,7 +14,7 @@
 
 5.  Find the values of a and b so that the following function is continous:
 
-    $ f(x)= \begin{cases}
+    $f(x)= \begin{cases}
     -2x \\
     b-ax^2\\
     -16x\\
@@ -47,7 +47,7 @@
 
 15. Find the values of a and b that makes $f(x)$ continuous everywhere:
 
-    $ f(x) \begin{cases}
+    $f(x) \begin{cases}
     8x \\
     ax^2 + b\\
     16x\\
@@ -68,7 +68,7 @@
 
 19. Differentiate:
 
-    $ i.$ $ y = x^2 e^{x^2}$
+    $i.$ $y = x^2 e^{x^2}$
 
     $ii.$ $y = ln$ $x-3$ $cos$ $x^2$
 
