@@ -8,18 +8,13 @@
 
 4.  Evaluate the following limits
 
-    $i. $ $\frac{x^3 -1}{x-1}~~$ $lim_{x \to  1}$
+    $i.$ $\frac{x^3 -1}{x-1}~~$ $lim_{x \to  1}$
 
-    $ii. $ $\frac{5x^2-3x+2}{10x^2-x+100}~~$ $lim_{x \to \infty}$
+    $ii.$ $\frac{5x^2-3x+2}{10x^2-x+100}~~$ $lim_{x \to \infty}$
 
 5.  Find the values of a and b so that the following function is continous:
 
-    $f(x)= \begin{cases}
-    -2x \\
-    b-ax^2\\
-    -16x\\
-    \end{cases}
-    $
+    $f(x)=\begin{cases}-2x\\b-ax^2\\-16x\\\end{cases}$
 
     $if$ $x < 1$
 
@@ -47,12 +42,7 @@
 
 15. Find the values of a and b that makes $f(x)$ continuous everywhere:
 
-    $f(x) \begin{cases}
-    8x \\
-    ax^2 + b\\
-    16x\\
-    \end{cases}
-    $
+    $f(x) \begin{cases}8x\\ax^2 + b\\16x\\\end{cases}$
 
     $if$ $ x \leq 1$
 
