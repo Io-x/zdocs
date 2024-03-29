@@ -18,9 +18,9 @@
 
     $if$ $x < 1$
 
-    $if$ $ 1\leq x \leq 4$
+    $if$ $1\leq x \leq 4$
 
-    $if$ $ x \geq 4$
+    $if$ $x \geq 4$
 
 6.  Use first principle of differentiation to find derivatives of $f(x) = \frac{3x}{1-5x}$
 
@@ -30,7 +30,7 @@
 
 9.  Find $\frac{dy}{dx}$ given $y +xy + y^2 =2$
 
-10. Find $\frac{dy}{dx}$ if $y = (\sqrt{x-1})e^x$ $ln$ $ x$
+10. Find $\frac{dy}{dx}$ if $y = (\sqrt{x-1})e^x$ $ln$ $x$
 
 11. Find the equation of the normal and tangent lines to $x^2y = x + 2$ at (2,1)
 
@@ -44,7 +44,7 @@
 
     $f(x) \begin{cases}8x\\ax^2 + b\\16x\\\end{cases}$
 
-    $if$ $ x \leq 1$
+    $if$ $x \leq 1$
 
     $if$ $1 \leq x  \leq 2$
 
@@ -76,4 +76,4 @@
 
 22. Find the equation of the tangent and normal line to the curve $x^2 + 2xy +3y^2 = 17$ at point (2,3)
 
-23. If $y = sin^{-1}$ $($ $cos$ $ x)$, show that $\frac{dy}{dx} = -1$
+23. If $y = sin^{-1}$ $($ $cos$ $x)$, show that $\frac{dy}{dx} = -1$
