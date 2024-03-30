@@ -4,7 +4,7 @@
 
 2. "All scheduling algorithms are essential: job first (SJF), first-come-first-served (FCFS), shortest remaining time first (SRTF), and round-robin (RR) scheduling algorithms." Discuss this statement with reference to the mentioned scheduling algorithms.
 
-3. Operating systems are separated into two views or levels: user-level instructions and privileged instructions. Differentiate the two levels.
+3. Operating systems are separated into two levels: user-level instructions and privileged instructions. Differentiate the two levels.
 
 4. Outline four inconveniences that a user can face while interacting with a computer system that is without an operating system.
 
@@ -12,9 +12,9 @@
 
 6. With the aid of a diagram, differentiate the monolithic and layered structure of an operating system.
 
-7. Describe the following in relation to I/O operations: programmed I/O, interrupt-driven I/O, and direct memory access.
+7. Describe the following in relation to I/O operations: programmed I/O, interrupt-driven I/O, direct memory access.
 
-8. Given the following queue: 95, 180, 34, 7, 119, 11, 123, 80, 62, 64, with the Read-write head initially at track 50 and the tail track being at 1, draw a Gantt chart that calculates the average seek time for the disk tracks using the SCAN algorithm.
+8. Given the following queue: 95, 180, 34, 7, 119, 11, 123, 80, 62, 64, with the Read-write head initially at track 50 and the tail track being at 1.Draw a Gantt chart that calculates the average seek time for the disk tracks using the SCAN algorithm.
 
 9. Explain any four possible reasons why a process may terminate and return its resources to the systems, with its process control block (PCB) erased.
 
@@ -23,7 +23,7 @@
 
 12. Explain three file systems that are applicable to a current operating system.
 
-13. Explain how the distinction between kernel mode and user mode functions as a rudimentary form of protection (security) system.
+13. Explain the distinction between kernel mode and user mode functions as a rudimentary form of protection (security) system.
 
 14. Discuss with examples why main memory is not suitable for permanent program storage or backup purposes. Furthermore, what is the main disadvantage to storing data on a magnetic disk drive as opposed to main memory?
 
