@@ -22,22 +22,6 @@
 
     $if$ $x \geq 4$
 
-    $f(x) =
-    \begin{cases}
-    -2x & \text{if } x < 1 \\
-    b - ax^2 & \text{if } 1 \leq x \leq 4 \\
-    -16x & \text{if } x \geq 4
-    \end{cases}
-    $
-
-    $f(x) = \left\{
-    \begin{aligned}
-    -2x & \quad \text{if } x < 1 \\
-    b - ax^2 & \quad \text{if } 1 \leq x \leq 4 \\
-    -16x & \quad \text{if } x \geq 4
-    \end{aligned}
-    \right.$
-
 6.  Use first principle of differentiation to find derivatives of $f(x) = \frac{3x}{1-5x}$
 
 7.  Find $\frac{dy}{dx}$ if $y = (\frac{1+2x}{1+x})^2$
@@ -58,7 +42,7 @@
 
 15. Find the values of a and b that makes $f(x)$ continuous everywhere:
 
-    $f(x) \begin{cases}8x\\ax^2 + b\\16x\\\end{cases}$
+    $f(x)= \begin{cases}8x\\ax^2 + b\\16x\\\end{cases}$
 
     $if$ $x \leq 1$
 
