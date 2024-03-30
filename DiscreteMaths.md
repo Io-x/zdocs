@@ -6,7 +6,7 @@
              ii. A contradiction
              iii. A set
 
-2.  List the elements in the following set; $A  =$ $\{x \, \epsilon \, N | 20<x<40~and~x~is~prime \}$
+2.  List the elements in the following set; A = {x $\epsilon$ N | 20 < x < 40 and x is prime }
 
 3)  Given the universal set $U$ = (1,2,3,4,5,6,7....19, 20} and sets $A$ = {9,8,10}, $B$ = {7,8,9,10,15,16,17,18}, $C$ = {1,2,3,4,19,20}, Determine:
 
