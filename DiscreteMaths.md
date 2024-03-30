@@ -6,15 +6,15 @@
              ii. A contradiction
              iii. A set
 
-2.  List the elements in the following set; $A  =$ $\{x \:\epsilon\ \Nu  \:|\:20 \: < \: x \: < 40 \: and \: x \:is \:prime \}$
+2.  List the elements in the following set; $A  =$ $\{x \, \epsilon \, N | 20<x<40~and~x~is~prime \}$
 
 3)  Given the universal set $U$ = (1,2,3,4,5,6,7....19, 20} and sets $A$ = {9,8,10}, $B$ = {7,8,9,10,15,16,17,18}, $C$ = {1,2,3,4,19,20}, Determine:
 
-    $i.$ $A \: \cup \:(B\:\cap \: C)$
+    $i.$ $A \cup(B \cap C)$
 
-    $ii.$ $C^c \: \cup \: B^c$
+    $ii.$ $C^c \cup B^c$
 
-    $iii.$ $|B| \: + \:|A|$
+    $iii.$ $|B| + |A|$
 
     $iv.$ Set difference C\A
 
@@ -37,15 +37,15 @@
          i. Represent the information on a Venn diagram
          ii. How Many students do not take either of the units
 
-7)  Show that the proposition $p \to q$ and ~$p \vee q$ are logically equivalent
+7)  Show that the proposition $p \to q$ and ~p $\vee$ q are logically equivalent
 
 8. Use truth tables to determine whether the following compound proposition is a contradiction, tautology or a contingency.
 
    $i.$ [p $\vee$ q] $\Lambda$ [~p $\Lambda$~q]
 
-   $ii.$ [$p \to q$] $\to$ [$p \: \Lambda \: q$]
+   $ii.$ [p $\to$ q] $\to$ [p $\Lambda$ q]
 
-   $iii.$ [$p \to q$] $\leftrightarrow$ (~q $\to$~p)
+   $iii.$ [p $\to$ q] $\leftrightarrow$ (~q $\to$~p)
 
 9. Show that p $\to$ (q $\to$ r) is logically equivalent to (p $\Lambda$ q) $\to$ r using truth table
 
@@ -82,9 +82,9 @@
 
 15. Distinguish between the Domain and Codomain of a function
 
-16. Write the inverse, converse and contrapositive of the following statement: "If it is raining, then Collins has her umbrella up"
+16. Write the inverse, converse and contrapositive of the following statement: "If it is raining, then Collins has his umbrella up"
 
-17. Prove by counter example that for every real number $x,\: (x + 1)^2=x^2+1$
+17. Prove by counter example that for every real number $x$, $(x + 1)^2=x^2+1$
 
 18. Prove that $\sqrt2$ is irrational by contradiction
 
