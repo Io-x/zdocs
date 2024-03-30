@@ -16,6 +16,13 @@
 
     $f(x)=\begin{cases}-2x\\b-ax^2\\-16x\\\end{cases}$
 
+    $f(n) =
+    \begin{cases}
+    -2x & \text{if x < 1} \\
+    b-ax^2 & \text{if 1 <= x <= 4 } \\
+    -16x & \text{if x >= 4}
+    \end{cases}$
+
     $if$ $x < 1$
 
     $if$ $1\leq x \leq 4$
