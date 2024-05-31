@@ -13,17 +13,23 @@
 
 4.  A table named `Customer_records` is used to store details of students at KANYAGIA University. Use the table to answer the following questions given below;
 
-![customer records table](images/customerRecords.jpg)
+| Reg_no  | Full_name       | Gender | Course | Marks | Grade |
+| ------- | :-------------- | ------ | ------ | ----- | ----- |
+| DIT001  | Tandaza Wazi    | Male   | DIT    | 74    | A     |
+| DCOM002 | Pombe Maghufuli | Male   | DCOM   | 66    | B     |
+| DBIT003 | Fatuma Amani    | Female | DBIT   | 71    | A     |
+| DCS004  | Tom Oketch      | Male   | DCS    | 59    | C     |
+| DIT005  | Sarah Agot      | Female | DIT    | 67    | B     |
 
         i) Use DDL Commands to create the Customer_records table.
 
-        ii) Reg oo field is a Primary Key. Explain the meaning of this statement.
+        ii) Reg_no field is a Primary Key. Explain the meaning of this statement.
 
         iii) Using DML statements, write a query to retrieve all students with grade “B"
 
 5.  Oracle is an Object-Relational Database Management System. Explain this statement
 
-6.  Describe SQL and Explain any Three Languages under SQL
+6.  Describe SQL and explain any Three Languages under SQL
 
 7.  Define table JOINS as used in DBMS
 
@@ -43,7 +49,13 @@
 
 13. Use the following `Pupil_results` table to answer the following questions;
 
-![customer records table](images/pupilResults.jpg)
+| Reg_no  | Full_name       | Course | Cat1 | Cat2 | Exam |
+| ------- | --------------- | ------ | ---- | ---- | ---- |
+| DIT001  | Tandaza Wazi    | DIT    | 13   | 12   | 49   |
+| DCOM002 | Pombe Maghufuli | DCOM   | 11   | 10   | 45   |
+| DBIT003 | Fatuma Amani    | DBIT   | 12   | 11   | 46   |
+| DCS004  | Tom Oketch      | DCS    | 9    | 10   | 40   |
+| DIT005  | Sarah Agot      | DIT    | 7    | 10   | 50   |
 
 i) Using single-row functions, write an SQL Query to transform pupils full names to upper cases
 
@@ -58,7 +70,7 @@ iv) Explain what the following SQL Query will output:
 
 15. Explain with appropriate examples `TWO` ways of restricting table data using SQL
 
-16. With the use of examples , explain the use of the following DCL commands in Oracle
+16. With the use of examples , explain the use of the following DCL commands in Oracle:
 
         i)  GRANT
         ii) REVOKE
@@ -71,16 +83,16 @@ iv) Explain what the following SQL Query will output:
 
 18. Differentiate between Primary Key and Foreign Key as used in DBMS
 
-19. Explain any Two Date functions used in Oracle
+19. Explain any `TWO` date functions used in Oracle
 
-20. Explain SubQuery and Elaborate its use in Oracle
+20. Explain SubQuery and elaborate its use in Oracle
 
 21. Explain the output of the following nested function: `SELECT Full_name, ROUND(AVG (Cat1 + Cat2 + Exam) , 2) FROM student_results`
 
-22. Using Appropriate examples, explain the use of the following in Oracle;
+22. Using appropriate examples, explain the use of the following in Oracle;
 
         i) GROUP BY
         ii) ORDER BY
         iii) DISTINCT
 
-23. Define Data type and Explain any `THREE` data types supported by Oracle
+23. Define data type and explain any `THREE` data types supported by Oracle
