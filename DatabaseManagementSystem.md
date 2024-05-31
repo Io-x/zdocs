@@ -30,7 +30,7 @@
 8.  Explain with appropriate examples; the following types of table joins
 
         i) INNER JOIN
-        ii) LEFT IOIN
+        ii) LEFT JOIN
         iii) RIGHT JOIN
 
 9.  Explain with examples FIVE single row functions
