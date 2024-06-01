@@ -24,13 +24,13 @@ Follow these steps to contribute to this project:
 
     Replace `your_username` with your GitHub username.
 
-3.  **Create a new branch** for the change you wish to make. For example, if we wish to add Science.md, run:
+3.  **Create a new branch** for the change you wish to make. For example, to add a new branch(use any name,here we use `dvpt_branch`) run:
 
     ```
-    git checkout -b sciencebranch
+    git checkout -b dvpt_branch
     ```
 
-    This command also switches the working branch from `main` to `sciencebranch`.
+    This command also switches the working branch from `main` to `dvpt_branch`.
 
 4.  **Make changes.**
 
@@ -69,4 +69,4 @@ Follow these steps to contribute to this project:
 
 [Math Notation in Markdown](https://www.upyesp.org/posts/makrdown-vscode-math-notation/)
 
-[Commit Messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+[Using commit messages for communication](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
