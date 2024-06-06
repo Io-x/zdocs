@@ -1,6 +1,6 @@
 ﻿# DATA COMMUNICATION AND COMPUTER NETWORKS
 
-1. Local Area Networks (LANS) rely on variousvaypes of transmission media to facilitate data communication. Describe three of the most common types of transmission media used in LAN environments,highlighting their characteristics
+1. Local Area Networks (LANS) rely on various types of transmission media to facilitate data communication. Describe three of the most common types of transmission media used in LAN environments,highlighting their characteristics.
 
 2. Router A (**RTA**) needs to forward the packets to the destination address `30.1.2.0/24`. Write the command to configure a static route for the enteprise network shown below:
 
