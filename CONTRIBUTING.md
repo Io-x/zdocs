@@ -47,13 +47,13 @@ Follow these steps to contribute to this project:
 6.  **Commit your changes.** Ensure to include a descriptive commit message.
 
     ```bash
-    git commit -m "adding Science.md"
+    git commit -m "add Science.md"
     ```
 
 7.  **Push your commit** to GitHub:
 
     ```bash
-    git push origin sciencebranch
+    git push origin dvpt_branch
     ```
 
 8.  **Create a pull request**

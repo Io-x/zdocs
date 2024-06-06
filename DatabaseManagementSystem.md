@@ -13,13 +13,13 @@
 
 4.  A table named `Customer_records` is used to store details of students at KANYAGIA University. Use the table to answer the following questions given below;
 
-| Reg_no  | Full_name       | Gender | Course | Marks | Grade |
-| ------- | :-------------- | ------ | ------ | ----- | ----- |
-| DIT001  | Tandaza Wazi    | Male   | DIT    | 74    | A     |
-| DCOM002 | Pombe Maghufuli | Male   | DCOM   | 66    | B     |
-| DBIT003 | Fatuma Amani    | Female | DBIT   | 71    | A     |
-| DCS004  | Tom Oketch      | Male   | DCS    | 59    | C     |
-| DIT005  | Sarah Agot      | Female | DIT    | 67    | B     |
+| Reg_no  | Full_name     | Gender | Course | Marks | Grade |
+| ------- | :------------ | ------ | ------ | ----- | ----- |
+| DIT001  | Lionel Carter | Male   | DIT    | 74    | A     |
+| DCOM002 | Kaylee Lucero | Male   | DCOM   | 66    | B     |
+| DBIT003 | Chaim Trejo   | Female | DBIT   | 71    | A     |
+| DCS004  | Flynn Leal    | Male   | DCS    | 59    | C     |
+| DIT005  | Koa Owen      | Female | DIT    | 67    | B     |
 
         i) Use DDL Commands to create the Customer_records table.
 
@@ -49,13 +49,13 @@
 
 13. Use the following `Pupil_results` table to answer the following questions;
 
-| Reg_no  | Full_name       | Course | Cat1 | Cat2 | Exam |
-| ------- | --------------- | ------ | ---- | ---- | ---- |
-| DIT001  | Tandaza Wazi    | DIT    | 13   | 12   | 49   |
-| DCOM002 | Pombe Maghufuli | DCOM   | 11   | 10   | 45   |
-| DBIT003 | Fatuma Amani    | DBIT   | 12   | 11   | 46   |
-| DCS004  | Tom Oketch      | DCS    | 9    | 10   | 40   |
-| DIT005  | Sarah Agot      | DIT    | 7    | 10   | 50   |
+| Reg_no  | Full_name      | Course | Cat1 | Cat2 | Exam |
+| ------- | -------------- | ------ | ---- | ---- | ---- |
+| DIT001  | Ellis Cortez   | DIT    | 13   | 12   | 49   |
+| DCOM002 | Enoch Lam      | DCOM   | 11   | 10   | 45   |
+| DBIT003 | Bryant Meza    | DBIT   | 12   | 11   | 46   |
+| DCS004  | Aaliyah Rogers | DCS    | 9    | 10   | 40   |
+| DIT005  | Bethany McCoy  | DIT    | 7    | 10   | 50   |
 
 i) Using single-row functions, write an SQL Query to transform pupils full names to upper cases
 

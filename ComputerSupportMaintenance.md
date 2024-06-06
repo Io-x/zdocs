@@ -21,7 +21,7 @@
 
 5.  Sarah noted that some of her documents in her computer were encrypted and she was forced to pay a certain fee through internet to decrypt her files.
 
-        i. Identify this ty pe of attack
+        i. Identify this type of attack
         ii. Outline four possible cause for the attack identified in (i)
 
 6.  Which procedure is recommended when cleaning inside a computer?
