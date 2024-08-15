@@ -21,9 +21,9 @@
 
 5.  KANYAGIA Company Ltd intents to set up a switch network. Analyze THREE switching methods that they could use.
 
-6.  Justify the need of a file server on a network.
+6.  Justify the need for a file server on a network.
 
-7.  The government has established a satellite communication center to develop satellite systems. Analyze FOUR application areas the governmefit can develop satellites systems for.
+7.  The government has established a satellite communication center to develop satellite systems. Analyze FOUR application areas the government can develop satellites systems for.
 
 8.  Explain the roles played by the following components in mobile communication;
 
@@ -33,11 +33,11 @@
 
 9.  You have been contracted to assist in the process of acquiring and installing a wireless network for a newly established company. Describe Four technologies you will consider for selection to implement the network.
 
-10. Philip intends to acquire GPRS-enabled mobile device for communication. Analyze FOUR features the device should have in order to support GPRS communication.
+10. Philip intends to acquire a GPRS-enabled mobile device for communication. Analyze FOUR features the device should have in order to support GPRS communication.
 
 11. Evaluate FOUR features provided by VoIP that normal phone companies charge extra for.
 
-12. You are part of a team tasked to manage a wireless network for a company. Explain Four actions that you will take to ensure reliabilits the network.
+12. You are part of a team tasked to manage a wireless network for a company. Explain Four actions that you will take to ensure reliability of the network.
 
 13. Explain FOUR levels in hierarchy of a CDPD network.
 
