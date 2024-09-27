@@ -5,31 +5,32 @@
         i) Abstraction
         ii)Inheritance
 
-2.  Write a python program to assign a discount of 8% if amount of purchase exceeds KSh 5000. Prompt the user to enter te amount of purchase
+2.  Write a python program to assign a discount of 8% if amount of purchase exceeds KSh 5000. Prompt the user to enter the amount of purchase.
 
-3.  Create a list named `courses` with five items(SCT, BCS, BBI,BE and BCOM). Use the relevaNt method to reverse the items in the list. Finally print `courses`.
+3.  Create a list named `courses` with five items(SCT, BCS, BBI,BE and BCOM). Use the relevant method to reverse the items in the list. Finally print `courses`.
 
 4.  A function is a group of statements that together perform a task. Explain any three benefits of functions in a computer program.
 
 5.  Write a python function to determine if any given number is even or odd.
 
-6.  Given that the value of a variable `x = 8` and `y =5`. State the output when each of the following statements as executed in python;
+6.  Given that the value of a variable `x = 8` and `y =5`. State the output when each of the following statements is executed in python;
 
-        i) x *= 2
+        i) x *= 4
         ii) x//3
         ii) x == y
         iv) y %= 3
         v) x += 9
 
-7.  A bank will offer a customer a loan if they are 21 years or over and have an annual income of at least Sh.33000. The customers age and income are input in response to user friendly prompts. Create a python program to implement the above requirements.
-    `Expected output`:
+7.  A bank will offer a customer a loan if they are 21 years or over and have an annual income of at least Sh.33000. The customer's age and income are input in response to user-friendly prompts. Create a python program to implement the above requirements.
+
+#### Expected output:
 
         i) Congratulations you qualify for a loan
         ii) Unfortunately, we are unable to offer you a loan at this time
 
 8.  A company decided to give bonus to employees according to the following criteria:
 
-| Time peroid of service | Bonus |
+| Time period of service | Bonus |
 | ---------------------- | ----- |
 | More than 10 years     | 12%   |
 | >=6 and <=10           | 10%   |
@@ -71,17 +72,17 @@ Write a python program to compute the following:
 
 #### Attributes:
 
-i) `account_number`: a string representing the account number.
-ii) `account_holder`: a string representing the account holder's name.
-iii) `balance`: a float representing the current balance of the account.
+        i) account_number: a string representing the account number.
+        ii) account_holder: a string representing the account holder's name.
+        iii) balance: a float representing the current balance of the account.
 
 Use the **init** method to initialize the attributes of the `BankAccount` class.
 
 #### Methods:
 
-i) `deposit(amount)`: a method that takes a float amount as input and adds it to the account's balance.
-ii) `withdraw(amount)`: a method that takes a float amount as input and subtracts it from the account's balance if sufficient funds are available.
-iii) `get_balance()`: a method that returns the current balance of the current the account.
-iv)`display_account_info()`: a method that displays the account number, account holder's name and current balance of the account.
+        i) deposit(amount): a method that takes a float amount as input and adds it to the account's balance.
+        ii) withdraw(amount): a method that takes a float amount as input and subtracts it from the account's balance if sufficient funds are available.
+        iii) get_balance(): a method that returns the current balance of the current the account.
+        iv)display_account_info(): a method that displays the account number, account holder's name and current balance of the account.
 
 Using the `BankAccount` class, create one instance of the bank account. Perform the following operations: deposit, withdraw and display account information for the `BankAccount` instance.
